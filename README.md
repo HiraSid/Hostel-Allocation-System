@@ -9,3 +9,6 @@ Prof. Ashok Singh Sairam, Dept. of Mathematics, IIT Guwahati
 – Incorporating Admin Module, Student Module and Allocation Module.
 
 – Tools/Technologies used: HTML, CSS, PHP, MySQ
+
+link for Reqirement Analysis, ppt, Project Report is given below-->
+https://drive.google.com/drive/folders/1CtDszLXQfqATNvWjh7LkZuNjClQmlO_f?usp=share_link
